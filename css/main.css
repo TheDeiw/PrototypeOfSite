@@ -1231,3 +1231,26 @@ a {
   color: blue;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 500px){
+
+  .container{
+    width: device; 
+  }
+
+  .midnight-blue{
+    width: 1000px;
+  }
+  
+}
