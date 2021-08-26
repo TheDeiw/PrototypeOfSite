@@ -1090,7 +1090,7 @@ ul.faq li > div h3 {
 
 .game1{
   position: relative;
-  height: 525px;
+  height: 575px;
   width: 900px;
   z-index: 1;
   margin-left: 20%;
@@ -1161,7 +1161,23 @@ ul.faq li > div h3 {
   height: 100px;
   width: 175px;
   box-shadow: 2px 2px 7px black;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
 }
+
+.pho:hover{
+  -webkit-transform: scale(2.5);
+  -moz-transform: scale(2.5);
+ -o-transform: scale(2.5);
+}
+
+.ic{
+  width: 17px;
+  height: 15px;
+  margin: 0px;
+}
+
 
 body{
   background-image: url('https://i.pinimg.com/originals/2a/a5/f2/2aa5f2a45fa5cbda5b42f05f045cfb28.gif');
@@ -1174,11 +1190,11 @@ body{
 
 .game2{
   position: relative;
-  height: 550px;
+  height: 575px;
   width: 900px;
   z-index: 1;
   margin-left: 20%;
-  margin-top: 20px;
+  margin-top: 60px;
 }
 
 .game2:before {
@@ -1234,7 +1250,21 @@ a {
 
 
 
-
+.pro{
+  
+  align-items: center;
+  font-size: 30pt;
+   margin-left: auto;
+    margin-right: auto;
+  padding: 0px;
+  height: 50px;
+  width: 500px;
+  text-align: center;
+  color: #8284B7;
+  border-radius: 5px;
+  box-shadow: 2px 2px 7px black;
+  background: linear-gradient(220deg, #2c3e50, #2F3044);
+}
 
 
 

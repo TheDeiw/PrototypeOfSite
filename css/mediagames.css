@@ -1,4 +1,4 @@
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 700px){
 
   .container{
     width: device; 
@@ -6,6 +6,13 @@
 
   .midnight-blue{
     width: 1000px;
+  }
+
+  .game1{
+    margin-left: 50px;
+  }
+  .game2{
+    margin-left: 50px;
   }
   
 }
