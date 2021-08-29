@@ -1117,13 +1117,13 @@ ul.faq li > div h3 {
 }
 
 .tex1{
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   margin-left: 15px;
 
 }
 
 .opys1{
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-size: 12pt;
   margin: 10px;
   padding: 0px;
@@ -1145,7 +1145,7 @@ ul.faq li > div h3 {
 }
 
 .first1{
- font-family: Comic Sans MS, Comic Sans, cursive;
+ font-family: Florence, cursive;
   margin: 25px;
   height: 60px;
   width: 170px;
@@ -1232,7 +1232,7 @@ body{
   }
 
 .first2{
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   margin: 25px;
   height: 60px;
   width: 215px;
@@ -1246,7 +1246,7 @@ body{
 }
 
 .opys2{
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-size: 12pt;
   margin: 10px;
   padding: 0px;
@@ -1260,7 +1260,7 @@ body{
 }
 
 .tex2{
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   margin-left: 15px;
   color: #998282;
 }
@@ -1274,7 +1274,7 @@ a {
 
 .pro{
   vertical-align: top;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-weight: 500;
   font-size: 30pt;
   margin-left: auto;
@@ -1306,7 +1306,7 @@ a {
 
 .prom{
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-weight: 500;
   font-size: 16pt;
   color: #8284B7;
@@ -1325,7 +1325,7 @@ a {
   margin-bottom: 50px;
   width: 100px;
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-weight: 500;
   font-size: 25pt;
   color: #8284B7;
@@ -1341,7 +1341,7 @@ a {
   margin-bottom: 50px;
   width: 100px;
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-weight: 500;
   font-size: 25pt;
   color: #8284B7;
@@ -1351,7 +1351,7 @@ a {
 }
 
 .sylka{
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Florence, cursive;
   font-weight: 500;
   font-size: 18pt;
   color: #8284B7;
