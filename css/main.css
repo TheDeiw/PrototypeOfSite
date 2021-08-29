@@ -1117,11 +1117,13 @@ ul.faq li > div h3 {
 }
 
 .tex1{
+  font-family: Comic Sans MS, Comic Sans, cursive;
   margin-left: 15px;
 
 }
 
 .opys1{
+  font-family: Comic Sans MS, Comic Sans, cursive;
   font-size: 12pt;
   margin: 10px;
   padding: 0px;
@@ -1143,7 +1145,7 @@ ul.faq li > div h3 {
 }
 
 .first1{
- 
+ font-family: Comic Sans MS, Comic Sans, cursive;
   margin: 25px;
   height: 60px;
   width: 170px;
@@ -1178,6 +1180,24 @@ ul.faq li > div h3 {
   margin: 0px;
 }
 
+.integrac{
+  width: 30px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.integracyou{
+  width: 37px;
+  height: 27px;
+  margin-bottom: 10px;
+}
+.logotex{
+  text-align: center;
+}
+.logothe{
+  width: 225px;
+  height: 300px;
+}
 
 body{
   background-image: url('https://i.pinimg.com/originals/2a/a5/f2/2aa5f2a45fa5cbda5b42f05f045cfb28.gif');
@@ -1212,7 +1232,7 @@ body{
   }
 
 .first2{
- 
+  font-family: Comic Sans MS, Comic Sans, cursive;
   margin: 25px;
   height: 60px;
   width: 215px;
@@ -1226,6 +1246,7 @@ body{
 }
 
 .opys2{
+  font-family: Comic Sans MS, Comic Sans, cursive;
   font-size: 12pt;
   margin: 10px;
   padding: 0px;
@@ -1239,6 +1260,7 @@ body{
 }
 
 .tex2{
+  font-family: Comic Sans MS, Comic Sans, cursive;
   margin-left: 15px;
   color: #998282;
 }
@@ -1251,17 +1273,19 @@ a {
 
 
 .pro{
-  
-  align-items: center;
+  vertical-align: top;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: 500;
   font-size: 30pt;
-   margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
   padding: 0px;
   height: 50px;
-  width: 500px;
+  width: 325px;
   text-align: center;
   color: #8284B7;
-  border-radius: 5px;
+  border-radius: 7px;
   box-shadow: 2px 2px 7px black;
   background: linear-gradient(220deg, #2c3e50, #2F3044);
 }
@@ -1270,6 +1294,65 @@ a {
 
 
 
+.tabl2{
+  width: 100%;
+  height: 235px;
+  margin: 0px;
+}
 
+.soc{
+  text-align: center;  
+}
 
+.prom{
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: 500;
+  font-size: 16pt;
+  color: #8284B7;
+  border-radius: 10px;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 0px;
+  box-shadow: 2px 2px 7px black;
+  background: linear-gradient(220deg, #2c3e50, #2F3044);
+}
 
+.links{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  width: 100px;
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: 500;
+  font-size: 25pt;
+  color: #8284B7;
+  border-radius: 10px;
+  box-shadow: 2px 2px 7px black;
+  background: linear-gradient(220deg, #2c3e50, #2F3044);
+}
+
+.logoph{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  width: 100px;
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: 500;
+  font-size: 25pt;
+  color: #8284B7;
+  border-radius: 10px;
+  box-shadow: 2px 2px 7px black;
+  background: linear-gradient(220deg, #2c3e50, #2F3044);
+}
+
+.sylka{
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: 500;
+  font-size: 18pt;
+  color: #8284B7;
+}

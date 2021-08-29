@@ -1,0 +1,45 @@
+@media only screen and (max-width: 700px){
+	.pro{
+		font-size: 17pt;
+		height: 35px;
+        width: 170px;
+	}
+
+	.prom{
+		font-size: 9pt;
+		margin-left: 15px;
+        margin-right: 15px;
+	}
+
+  		.integrac{
+ 	 width: 15px;
+ 	 height: 15px;
+  	 margin-bottom: 2px;
+	}
+
+	.integracyou{
+	  width: 17px;
+	  height: 13px;
+	  margin-bottom: 2px;
+	}
+	.sylka{
+	  font-family: Comic Sans MS, Comic Sans, cursive;
+ 	  font-weight: 400;
+	  font-size: 10pt;
+ 	  color: #8284B7;
+	}
+
+	.links{
+		width: 75px;
+		font-size: 17pt;
+	}
+
+	.logoph{
+		width: 75px;
+		font-size: 17pt;
+	}
+	.logothe{
+		width: 75px;
+		height: 100px;
+	}
+}
