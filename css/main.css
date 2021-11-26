@@ -1226,7 +1226,7 @@ body{
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #332727; 
+  background-color: #070707; 
   opacity: .7;
   z-index: -1;
   }
@@ -1236,13 +1236,13 @@ body{
   margin: 25px;
   height: 60px;
   width: 215px;
-  background: linear-gradient(220deg, #564040, #382121);
+  background: linear-gradient(220deg, #0C0B0B, #2D2B2B);
   border-radius: 10px;
   font-size: 275%;
   text-align: center;
   box-shadow: 1px 1px 7px black;
   top: 80px;
-  color: #AF9696;
+  color: #6B6161;
 }
 
 .opys2{
@@ -1253,16 +1253,16 @@ body{
   height: 25px;
   width: 85px;
   text-align: center;
-  color: #AF9696;
+  color: #6B6161;
   border-radius: 5px;
   box-shadow: 2px 2px 7px black;
-  background: linear-gradient(220deg, #564040, #382121);
+  background: linear-gradient(220deg, #0C0B0B, #2D2B2B);
 }
 
 .tex2{
   font-family: Florence, cursive;
   margin-left: 15px;
-  color: #998282;
+  color: #544C4C;
 }
 
 a {
